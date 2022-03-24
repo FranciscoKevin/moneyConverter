@@ -1,4 +1,5 @@
 # money-converter
+Mini project in Vue.js that converts euro to dollar
 
 ## Project setup
 ```
